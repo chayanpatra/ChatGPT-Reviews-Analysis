@@ -85,6 +85,3 @@ ChatGPT has rapidly gained global attention with millions of users sharing feedb
 ## ✅ Conclusion
 
 This project shows how ChatGPT itself can be used not only as a product but also as a tool to **analyze user feedback** at scale. By summarizing user sentiment, identifying recurring themes, and tracking trends, product teams and researchers can gain valuable insights without manual data processing.
-````
-
-Let me know if you want it saved as a downloadable `README.md` file.
